@@ -12,11 +12,11 @@ Smart drone-based AI system for live traffic incident detection and response.
 
 - [https://youtube.com/shorts/jnHjj6e67kI?feature=share](https://youtube.com/shorts/jnHjj6e67kI?feature=share)  
 - [https://youtu.be/-aqEy-7fekU](https://youtu.be/-aqEy-7fekU)
-
+- [https://youtu.be/3Ajnwsu7a0o]([https://youtu.be/-aqEy-7fekU](https://youtu.be/3Ajnwsu7a0o))
 ---
 
 ## 🧠 Technologies Used
-- Python (Google Colab)
+- Python (Google Colab&Visual Studio Code)
 - YOLOv8 (Computer Vision)
 - Drone Simulation
 - GitHub Repository

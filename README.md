@@ -9,6 +9,8 @@ Smart drone-based AI system for live traffic incident detection and response.
 
 شاهد عرض الفيديو التوضيحي للمشروع:
 https://youtube.com/shorts/jnHjj6e67kI?feature=share
+
+
 https://youtu.be/-aqEy-7fekU
 
 ---

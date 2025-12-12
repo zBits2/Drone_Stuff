@@ -1,4 +1,4 @@
-# RASAD - Intelligent Incident Response via Drone 🚁
+# RASAD – AI-Powered Drone System for Live Public Safety Monitoring 🚁
 
 Smart drone-based AI system for live traffic incident detection and response.
 

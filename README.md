@@ -30,3 +30,4 @@ Smart drone-based AI system for live traffic incident detection and response.
 ## 🏁 About the Hackathon
 This project was developed as part of the **Tuwaiq Security & Surveillance Hackathon 2025** to enhance **incident response speed** using AI and drones.  
 
+

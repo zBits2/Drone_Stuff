@@ -23,7 +23,7 @@ https://youtube.com/shorts/jnHjj6e67kI?feature=share
 ## 📂 Project Files
 - `Drone.ipynb` : كود النموذج الذكي للتعرف على الحوادث
 
-- YouTube Demo: الفيديو التوضيحي لنموذج العمل
+- README.md: الفيديو التوضيحي لنموذج العمل
 
 ---
 
